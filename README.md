@@ -4,7 +4,7 @@
 
 Hello! I’m Prashant, a software engineer with a keen interest in building efficient and scalable backend systems. With expertise in **Java**, **Spring Boot**, and **Microservices**, I’m passionate about creating robust applications that deliver seamless user experiences.
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,spring,react,postgres,mongodb,docker,kubernetes,jenkins,aws,gcp,git,github,linux,idea,postman,maven,gradle&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,spring,react,postgres,mysql,mongodb,docker,kubernetes,jenkins,aws,gcp,git,github,linux,postman,maven,gradle,junit,mockito&theme=dark)](https://skillicons.dev)
 
 ## 🚀 Skills:
 - **Programming**: Java, HTML, CSS, JavaScript
