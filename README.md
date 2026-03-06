@@ -8,7 +8,7 @@ Hello! I’m Prashant, a backend-focused software engineer passionate about buil
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,typescript,bootstrap,spring,react,postgres,mysql,mongodb,docker,kubernetes,jenkins,aws,gcp,git,github,linux,postman,maven,gradle,graphql,redis,kafka&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,typescript,bootstrap,hibernate,spring,react,postgres,mysql,mongodb,docker,kubernetes,jenkins,aws,gcp,git,github,linux,postman,maven,gradle,graphql,redis,kafka,rabbitmq&theme=dark)](https://skillicons.dev)
 <br><br>
 ![Reactive Programming](https://img.shields.io/badge/Reactive-Programming-6E40C9?logo=project-reunion&logoColor=white)
 ![Project Reactor](https://img.shields.io/badge/Project-Reactor-4AB5E6?logo=reactivex&logoColor=white)
