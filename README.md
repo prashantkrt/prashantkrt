@@ -4,23 +4,18 @@
 
 <div align="center">
 
-<h1>
-  👨‍💻 Hi, I'm <span style="color:#00bfff">Prashant Kumar Tiwary</span> 🚀
-</h1>
+<h1>👨‍💻 Hi, I'm Prashant Kumar Tiwary 🚀</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%E2%98%95;Spring+Boot+%7C+Microservices+%7C+Kafka+%E2%9A%A1;Building+Scalable+%26+Secure+Systems+%F0%9F%94%90;Always+Learning%2C+Always+Shipping+%F0%9F%93%88)](https://git.io/typing-svg)
 
-<!-- </div>
-
-# 👨‍💻  Hi, I'm Prashant Kumar Tiwary
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%F0%9F%9A%80;Software+Engineer+%40+Publicis+Sapient;Spring+Boot+%7C+Microservices+%7C+Kafka;Building+Scalable+%26+Secure+Systems)](https://git.io/typing-svg) -->
+[![GitHub followers](https://img.shields.io/github/followers/prashantkrt?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/prashantkrt?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=prashantkrt&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
 
 </div>
 
 ---
 
-### Java Backend Developer | Software Engineer ###
+### ☕ Java Backend Developer | Software Engineer
 
 Hello! I’m Prashant, a backend-focused software engineer passionate about building **scalable**, **secure**, and **high-performance** systems. I specialize in **Java**, **Spring Boot**, and **Microservices**, crafting solutions that power real-world applications.
 
