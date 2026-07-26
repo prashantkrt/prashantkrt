@@ -3,13 +3,8 @@
 # 👨‍💻  Hi, I'm Prashant Kumar Tiwary
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%F0%9F%9A%80;Software+Engineer+%40+Publicis+Sapient;Spring+Boot+%7C+Microservices+%7C+Kafka;Building+Scalable+%26+Secure+Systems)](https://git.io/typing-svg)
-
 </div>
-
-<div align="center">
-  ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:21262d,100:21262d&height=1&section=header)
-</div>
-
+---
 **Java Backend Developer | Software Engineer**
 
 Hello! I’m Prashant, a backend-focused software engineer passionate about building **scalable**, **secure**, and **high-performance** systems. I specialize in **Java**, **Spring Boot**, and **Microservices**, crafting solutions that power real-world applications.
