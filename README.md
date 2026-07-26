@@ -53,8 +53,9 @@ Hello! I’m Prashant, a backend-focused software engineer passionate about buil
 
 ---
 ### 🐍 Contribution Snake
-
+<div align="center">
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prashantkrt/prashantkrt/output/github-snake-dark.svg"> <img alt="snake" src="https://raw.githubusercontent.com/prashantkrt/prashantkrt/output/github-snake.svg"> </picture>
+</div>
 
 ---
 
