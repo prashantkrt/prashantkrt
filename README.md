@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:667eea,50:00bfff,100:1e90ff&text=Hi%20There!%20👋&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" alt="header"/>
 </p>
 
@@ -11,7 +11,21 @@
 [![GitHub followers](https://img.shields.io/github/followers/prashantkrt?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/prashantkrt?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=prashantkrt&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
 
+</div> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:667eea,50:00bfff,100:1e90ff&text=Prashant%20Kumar%20Tiwary&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" alt="header"/>
+</p>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%E2%98%95;Spring+Boot+%7C+Microservices+%7C+Kafka+%E2%9A%A1;Building+Scalable+%26+Secure+Systems+%F0%9F%94%90;Always+Learning%2C+Always+Shipping+%F0%9F%93%88)](https://git.io/typing-svg)
+
+[![GitHub followers](https://img.shields.io/github/followers/prashantkrt?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/prashantkrt?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=prashantkrt&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
+
 </div>
+
 
 ---
 
