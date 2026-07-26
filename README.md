@@ -1,13 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hi,%20We're%20S4IL%20%26%20Prashant&fontColor=ffffff&desc=Python%20•%20Java%20•%20Automation%20•%20AI%20•%20Backend&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%20Prashant%20Kumar%20Tiwary&fontColor=ffffff&fontSize=38&desc=Java%20Backend%20Developer&descAlign=50&descAlignY=65&fontAlign=50&fontAlignY=40" width="100%" alt="header"/>
 </p>
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/s4il21?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/S4IL21?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=s4il21&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
-
-</div>
 <div align="center">
 
 # 👨‍💻  Hi, I'm Prashant Kumar Tiwary
