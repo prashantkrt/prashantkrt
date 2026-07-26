@@ -14,7 +14,7 @@
 </div> -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:667eea,50:00bfff,100:1e90ff&text=Prashant%20Kumar%20Tiwary&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:667eea,50:00bfff,100:1e90ff&text=Hi%20there%20%F0%9F%91%8B&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=32&desc=I%27m%20Prashant%20Kumar%20Tiwary%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&descAlignY=55&descSize=22" width="100%" alt="header"/>
 </p>
 
 <div align="center">
