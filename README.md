@@ -6,8 +6,9 @@
 
 </div>
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:21262d,100:21262d&height=1&section=header)
 
-### Java Backend Developer | Software Engineer
+**Java Backend Developer | Software Engineer**
 
 Hello! I’m Prashant, a backend-focused software engineer passionate about building **scalable**, **secure**, and **high-performance** systems. I specialize in **Java**, **Spring Boot**, and **Microservices**, crafting solutions that power real-world applications.
 
