@@ -1,7 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%20Prashant%20Kumar%20Tiwary&fontColor=ffffff&fontSize=38&desc=Java%20Backend%20Developer&descAlign=50&descAlignY=65&fontAlign=50&fontAlignY=40" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:667eea,50:00bfff,100:1e90ff&text=Hi%20There!%20👋&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" alt="header"/>
 </p>
+
 <div align="center">
+
+<h1>
+  👨‍💻 Hi, I'm <span style="color:#00bfff">Prashant Kumar Tiwary</span> 🚀
+</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%E2%98%95;Spring+Boot+%7C+Microservices+%7C+Kafka+%E2%9A%A1;Building+Scalable+%26+Secure+Systems+%F0%9F%94%90;Always+Learning%2C+Always+Shipping+%F0%9F%93%88)](https://git.io/typing-svg)
+
+</div>
 
 # 👨‍💻  Hi, I'm Prashant Kumar Tiwary
 
@@ -81,8 +90,7 @@ I'm a detail-oriented engineer who loves turning complex business problems into 
 
 
 <h3 align="center" style="color:white;">
-  🚀 Creating, Automating, and Innovating — Together.
+  ⚙️ Building resilient backend systems, one microservice at a time.
 </h3>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer"/>
 
