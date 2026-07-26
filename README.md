@@ -51,3 +51,10 @@ I'm a detail-oriented engineer who loves turning complex business problems into 
 
 ---
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prashantkrt/prashantkrt/output/github-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/prashantkrt/prashantkrt/output/github-snake.svg">
+</picture>
+
