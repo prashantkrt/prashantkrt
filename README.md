@@ -5,7 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%F0%9F%9A%80;Software+Engineer+%40+Publicis+Sapient;Spring+Boot+%7C+Microservices+%7C+Kafka;Building+Scalable+%26+Secure+Systems)](https://git.io/typing-svg)
 
 </div>
-✨ **Java Backend Developer | Software Engineer**
+
+--
+✨ Java Backend Developer | Software Engineer**
 
 Hello! I’m Prashant, a backend-focused software engineer passionate about building **scalable**, **secure**, and **high-performance** systems. I specialize in **Java**, **Spring Boot**, and **Microservices**, crafting solutions that power real-world applications.
 
@@ -36,9 +38,7 @@ Hello! I’m Prashant, a backend-focused software engineer passionate about buil
 
 ### 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prashantkrt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prashantkrt&layout=compact&theme=tokyonight&hide_border=true" /> 
-<img src="https://streak-stats.demolab.com/?user=prashantkrt&theme=tokyonight&hide_border=true" /> 
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prashantkrt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prashantkrt&layout=compact&theme=tokyonight&hide_border=true" /> <img src="https://streak-stats.demolab.com/?user=prashantkrt&theme=tokyonight&hide_border=true" /> 
 
 ---
 ### 🐍 Contribution Snake
