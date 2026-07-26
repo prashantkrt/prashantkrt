@@ -6,9 +6,8 @@
 
 </div>
 
----
 
-### Java Backend Developer | Software Engineer**
+### Java Backend Developer | Software Engineer
 
 Hello! I’m Prashant, a backend-focused software engineer passionate about building **scalable**, **secure**, and **high-performance** systems. I specialize in **Java**, **Spring Boot**, and **Microservices**, crafting solutions that power real-world applications.
 
