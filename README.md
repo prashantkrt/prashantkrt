@@ -6,7 +6,9 @@
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:21262d,100:21262d&height=1&section=header)
+<div align="center">
+  ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:21262d,100:21262d&height=1&section=header)
+</div>
 
 **Java Backend Developer | Software Engineer**
 
@@ -64,17 +66,10 @@ I'm a detail-oriented engineer who loves turning complex business problems into 
 
 ### 🌐 Connect With Me
 
-📫 [LinkedIn](https://www.linkedin.com/in/prashant-kumar-tiwary-a7a741161/)
-
----
-
-
-### 🌐 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-kumar-tiwary-a7a741161/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/prashanttiwary10/)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/prashantkrt)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashanttiwary10@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codespirejava@gmail.com)
 
 <div align="center">
 
